@@ -22,4 +22,3 @@ diversos testes mais avançados usando SQL ou até mesmo integrar esses dados co
 para aplicar estudos de Data Science em uma grande base aleatória de numeros gerados aleatóriamente (ou não) para simular as
 notas dos alunos através do tempo.
 
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
