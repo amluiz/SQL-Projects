@@ -7,8 +7,6 @@ Esse foi um projeto próprio, onde aproveitei minha experiência com Escolas par
 | -------------  | --- |
 | :sparkles: Nome        | **Base de Dados Escolares**
 | :label: Tecnologias | SQL
-| :rocket: URL         | 
-| :fire: Desafio     | 
 
 ## Detalhes do projeto
 
